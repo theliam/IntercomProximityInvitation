@@ -1,0 +1,6 @@
+C:\Users\Liam\Documents\Projects\IntercomProximityInvitation\IntercomProximityInvitation\bin\Debug\IntercomProximityInvitation.exe
+C:\Users\Liam\Documents\Projects\IntercomProximityInvitation\IntercomProximityInvitation\bin\Debug\IntercomProximityInvitation.pdb
+C:\Users\Liam\Documents\Projects\IntercomProximityInvitation\IntercomProximityInvitation\obj\x86\Debug\IntercomProximityInvitation.exe
+C:\Users\Liam\Documents\Projects\IntercomProximityInvitation\IntercomProximityInvitation\obj\x86\Debug\IntercomProximityInvitation.pdb
+C:\Users\Liam\Documents\Projects\IntercomProximityInvitation\IntercomProximityInvitation\obj\x86\Debug\IntercomProximityInvitation.csprojResolveAssemblyReference.cache
+C:\Users\Liam\Documents\Projects\IntercomProximityInvitation\IntercomProximityInvitation\bin\Debug\Newtonsoft.Json.dll
